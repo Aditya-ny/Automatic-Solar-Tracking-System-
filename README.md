@@ -2,7 +2,7 @@
 Hello, 
 
 -- Welcome to my repository 'Automatic Solar Tracking System'. I created this to show my significant contribution in my recent project.  
-This is a repository of my recent project at DP Inc., New York. I would like to thank my teammate Mr. Satheesh M.Tech Electrical 
+This is a repository of my recent project at NIT Agartala. I would like to thank my teammate Mr. Satheesh M.Tech Electrical 
 Engineer for his contribution and making the project a huge success. Please find the important image files of the project. 
 
   
